@@ -1,2 +1,3 @@
 # hh
-solution of hacjerrank
+solution of hackerrank
+gg
